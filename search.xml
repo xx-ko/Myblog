@@ -136,19 +136,6 @@
       </tags>
   </entry>
   <entry>
-    <title>oop</title>
-    <url>/2023/05/26/oop/oop/</url>
-    <content><![CDATA[<h1 id="考点汇总："><a href="#考点汇总：" class="headerlink" title="考点汇总："></a>考点汇总：</h1><hr>
-<h3 id="面向对象基本概念、面向对象分析、设计、测试。"><a href="#面向对象基本概念、面向对象分析、设计、测试。" class="headerlink" title="面向对象基本概念、面向对象分析、设计、测试。"></a>面向对象基本概念、面向对象分析、设计、测试。</h3><h3 id="UML建模："><a href="#UML建模：" class="headerlink" title="UML建模："></a><em>UML建模</em>：</h3><h4 id="事务、关系、结构、行为型"><a href="#事务、关系、结构、行为型" class="headerlink" title="事务、关系、结构、行为型"></a>事务、关系、结构、行为型</h4><h3 id="设计模式："><a href="#设计模式：" class="headerlink" title="设计模式："></a><em>设计模式</em>：</h3><h4 id="创建型、结构型、行为型"><a href="#创建型、结构型、行为型" class="headerlink" title="创建型、结构型、行为型"></a>创建型、结构型、行为型</h4>]]></content>
-      <categories>
-        <category>oop</category>
-        <category>oop</category>
-      </categories>
-      <tags>
-        <tag>面向对象</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2023/05/21/hexo/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -171,6 +158,33 @@
       </categories>
       <tags>
         <tag>hello World</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>oop</title>
+    <url>/2023/05/26/oop/oop/</url>
+    <content><![CDATA[<h1 id="考点汇总："><a href="#考点汇总：" class="headerlink" title="考点汇总："></a>考点汇总：</h1><hr>
+<h3 id="面向对象基本概念、面向对象分析、设计、测试。"><a href="#面向对象基本概念、面向对象分析、设计、测试。" class="headerlink" title="面向对象基本概念、面向对象分析、设计、测试。"></a>面向对象基本概念、面向对象分析、设计、测试。</h3><h3 id="UML建模："><a href="#UML建模：" class="headerlink" title="UML建模："></a><em>UML建模</em>：</h3><h4 id="事务、关系、结构、行为型"><a href="#事务、关系、结构、行为型" class="headerlink" title="事务、关系、结构、行为型"></a>事务、关系、结构、行为型</h4><h3 id="设计模式："><a href="#设计模式：" class="headerlink" title="设计模式："></a><em>设计模式</em>：</h3><h4 id="创建型、结构型、行为型"><a href="#创建型、结构型、行为型" class="headerlink" title="创建型、结构型、行为型"></a>创建型、结构型、行为型</h4><h2 id="面向对象基本概念"><a href="#面向对象基本概念" class="headerlink" title="面向对象基本概念"></a>面向对象基本概念</h2><table>
+<thead>
+<tr>
+<th>对象</th>
+<th>特点</th>
+<th>组成</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>把数据及对数据的操作方法放在一起，作为一个相互依存的整体</td>
+<td>封装、继承、多态</td>
+<td>属性与方法</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>oop</category>
+        <category>oop</category>
+      </categories>
+      <tags>
+        <tag>面向对象</tag>
       </tags>
   </entry>
 </search>
